@@ -1,7 +1,7 @@
 # Community-Analysis
 
 ### Housing 
-As we see nationwide increases in mortgage rates and rental prices, I was interested to explore the current state of homelessness by state. A few questions I am looking to answer include:
+As we see nationwide increases in mortgage rates and rental prices, I was interested to explore the current state of homelessness by zip code. A few questions I am looking to answer include:
 
 - Which areas experience the greatest homelessness rate in the US?*
 - Do areas with high homelessless experience higher rental prices than the national rental price average?*
